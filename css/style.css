@@ -1,0 +1,274 @@
+body {
+	height: 2500px;
+}
+
+header {
+	height: 592px;
+
+   	background-image: url('../img/large-banner-image.png');
+   	background-repeat: no-repeat;
+   	background-attachment: scroll;
+   	background-position: 0 0;
+   	background-size: cover;
+ 
+
+	font-style: italic;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: 60px;
+	font-family: pacifico;
+
+
+	text-align: center;
+	padding-top: 105px;
+}
+
+.arrow {
+	position: absolute;
+	top: 300px;
+	left: 925px;
+}
+
+.iphone {
+	position: relative;
+	top: 125px;
+}
+
+.dot1 {
+	position: absolute;
+	top: 270px;
+	left: 865px;
+
+}
+.dot2 {
+	position: absolute;
+	top: 175px;
+	left: 1000px;
+}
+
+.dot3 {
+	position: absolute;
+	top: 465px;
+	left: 865px;
+}
+
+.blackdot {
+	position: absolute;
+	top: 370px;
+	left: 1000px;
+}
+
+.finger {
+	position: absolute;
+	top: 375px;
+	left: 1010px;
+}
+
+.angled-line {
+	position: absolute;
+	top: 420px;
+	left: 1020px;
+}
+
+header p {
+	font-style: normal;
+	font-variant: normal;
+	font-weight: lighter;
+	font-size: 32px;
+	font-family: raleway;
+
+
+	text-align: center;
+	padding-top: 60px;
+}
+
+.feature-large-container {
+	height: 500px;
+}
+
+.feature-large-container h3 {
+	font-style:  normal;
+	font-variant: normal;
+	font-weight: bold;
+	font-size: 22px;
+	font-family: raleway
+}
+
+.feature-large-container p {
+	color: #848484;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: 16px;
+	font-family: raleway; 
+
+	padding-top:15px;
+}
+
+.feature-container1 {
+	float: left;
+	padding: 45px 0 0 420px;
+}
+
+.feature-container2 {
+	float:right;
+	padding: 45px 440px 0 0;
+}
+
+.another-great-feature1{
+	float: left;
+	padding: 50px 0 0 420px;
+}
+
+.another-great-feature2 {
+	float: right;
+	padding: 45px 440px 0 0;
+}
+.get-the-app {
+	height: 410px;
+	background-color: #e3e3e3;
+}
+
+.get-the-app h3{
+	font-style:  normal;
+	font-variant: normal;
+	font-weight: bold;
+	font-size: 22px;
+	font-family: raleway;
+
+	padding: 10px 0 15px 0;
+}
+
+.get-the-app p {
+	color: #848484;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: 16px:;
+	font-family: raleway;
+
+	padding-top: 15px;
+}
+
+.get-the-app1 {
+	float: left;
+	padding: 45px 0 0 400px;
+
+}
+
+.get-the-app1 div {
+	padding-top: 10px;
+}
+
+.platforms {
+	position: relative;
+}
+
+.cursor {
+	position: absolute;
+	left: 180px;
+	bottom: 10px;
+
+}
+
+.video-container{
+	position: relative;
+	float: right;
+	padding: 50px 340px 0 0;
+}
+
+.play {
+	position: absolute;
+	bottom: 20px;
+	left: 20px;
+}
+
+.video-play-bar {
+	position: absolute;
+	bottom: 20px;
+	left: 110px;
+}
+
+.quote {
+	height: 115px;
+	color: #848484;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: 24px:;
+	font-family: raleway;
+
+	padding-top: 55px;
+
+	text-align: center;
+}
+
+.quote p {
+	font-weight: bold;
+	color: #111;
+	padding-top: 30px;
+}
+.low-banner {
+	position: relative;
+	text-align: center;
+}
+
+.active-person {
+	position: absolute;
+	left: 1073px;
+	bottom: 159px;
+}
+.cursor2 {
+	position: absolute;
+	left: 1085px;
+	bottom: 170px;
+}
+.get-in-touch {
+	height: 250px;
+}
+
+.get-in-touch h3 {
+	font-style:  normal;
+	font-variant: normal;
+	font-weight: bold;
+	font-size: 22px;
+	font-family: raleway;
+	text-align: center;
+
+	padding-top: 40px;
+}
+
+.get-in-touch p {
+	color: #848484;
+	font-style:  normal;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: 16px;
+	font-family: raleway;
+
+	text-align: center;
+
+	padding-top: 30px;
+}
+
+.social-media {
+	text-align: center;
+
+	padding-top: 30px;
+}
+
+footer {
+	height: 80px;
+	background-color: #e3e3e3;
+
+	color: #848484;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: 16px;
+	font-family: raleway;
+
+	text-align: center;
+	word-spacing: 30px;
+	padding-top: 60px;
+}
